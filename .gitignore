@@ -1,0 +1,12 @@
+# apple
+.DS_Store
+
+# jetbrain
+.idea/
+cmake-build-debug
+
+# vscode
+.vscode/
+
+# other
+**/*.log
