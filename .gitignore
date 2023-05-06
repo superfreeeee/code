@@ -11,4 +11,6 @@ cmake-build-debug
 # other
 **/*.log
 
+# apps
 attempt/
+source_research_rust/
