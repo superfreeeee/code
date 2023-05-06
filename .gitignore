@@ -1,4 +1,4 @@
-# apple
+# system
 .DS_Store
 
 # jetbrain
@@ -10,3 +10,5 @@ cmake-build-debug
 
 # other
 **/*.log
+
+attempt/
